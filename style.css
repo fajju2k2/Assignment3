@@ -1,0 +1,75 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.start{
+background-color: dodgerblue;
+ height: 45px;
+ width: 86em;   
+}
+.buttons{
+    position: absolute;
+    top: 10px;
+    right: 10px;
+    width: 300px;
+    text-align: center;
+    font-size: small;
+    border: 0px 
+  } 
+  .fa{
+      text-align: left;
+ 
+  font-size: 30px;
+  width: 30px;
+  
+  text-decoration: none;
+  border-radius: 50%;
+  }
+  .fa:hover {
+    color: white;
+   
+  }
+.center{
+      text-align: center;
+      color: white; 
+      padding-top: 10px;
+    }
+    .social{
+        position: absolute;
+        top: 10px;
+        text-align: center;
+
+    }
+    .footer{
+      background-color: black;
+    }
+
+    /* .topnav {
+        
+        text-align: right;
+        overflow: hidden;
+        background-color: white;
+      }
+      
+      .topnav a {
+        margin-right: inherit;
+        float: left;
+        color: gray;
+        text-align: center;
+        padding: 14px 16px;
+        text-decoration: none;
+        font-size: 17px;
+      }
+      .nav-options{     
+        float: right;
+      }
+      
+      .topnav a:hover {
+        background-color:dodgerblue;
+        color:white;
+      }
+      
+      .topnav a.active {
+        background-color: dodgerblue;
+        color: white;
+      } */
